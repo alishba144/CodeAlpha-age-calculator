@@ -4,7 +4,7 @@ A simple and responsive **Age Calculator** built using HTML, CSS, and JavaScript
 
 ## 🔗 Live Demo
 
-👉 [Try the Age Calculator Here](https://alishba144.github.io/CodeAlpha-age-calculator/)
+👉 [Try the Age Calculator Here](https://alishba144.github.io/CodeAlpha_AgeCalculator/)
 
 ## 📌 Features
 
